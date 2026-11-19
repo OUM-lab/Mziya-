@@ -1,0 +1,6 @@
+{
+  "name": "Mziya",
+  "description": "Mziya — Plateforme marocaine de fidélité multi-commerces à Agadir (Python, Streamlit, SQLite).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
